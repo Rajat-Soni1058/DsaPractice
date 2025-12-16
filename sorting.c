@@ -7,7 +7,7 @@ struct node {
 
 // creating the node with input from user 
  struct node*createnode(int data){
-    struct node * newnode= (struct node*)malloc(sizeof(struct node));
+    struct node * newnode= (struct node*)malloc(sizeof(struct node))
     newnode->data= data;
     newnode->next= NULL;
     return newnode;
