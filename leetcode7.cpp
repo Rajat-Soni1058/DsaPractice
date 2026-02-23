@@ -38,3 +38,5 @@ int f(int x){
         
     }
 };
+///////////https://chatgpt.com/share/6996ea1d-9e4c-8005-a2bf-ca519ec4b5d3//////////
+//////////////https://chatgpt.com/share/6996eba9-a5a8-8005-9375-484a7becc118///////////
