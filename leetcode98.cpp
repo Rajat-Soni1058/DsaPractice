@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
 bool fun(string s,string &s1,string &s2,string &cmp,int i,int j, vector<vector<int>> &dp){
